@@ -3,6 +3,18 @@ Lê Thanh Lợi - CK19V7K514
 Colect data and push it into ```your_face``` as bellow:
 ```buildoutcfg
 your_face/
+├── TranThanh
+│   ├── TranThanh_001.jpg
+│   ├── TranThanh_0002.jpg
+│   ├── ...
+│   ├── TranThanh_0014.jpg
+│   └── TranThanh_0015.jpg
+├── HariWon
+│   ├── HariWon_001.jpg
+│   ├── HariWon_0002.jpg
+│   ├── ...
+│   ├── HariWon_0014.jpg
+│   └── HariWon_0015.jpg
 ├── ChiPu
 │   ├── ChiPu_001.jpg
 │   ├── ChiPu_0002.jpg
