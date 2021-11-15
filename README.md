@@ -14,7 +14,7 @@ your_face/
 │   ├── HienHo_0002.jpg
 │   ├── ...
 │   ├── HienHo_0014.jpg
-│   └──HienHo_0015.jpg
+│   └── HienHo_0015.jpg
 └── TruongGiang
     ├── TruongGiang_0001.jpg
     ├── TruongGiang_0002.jpg
