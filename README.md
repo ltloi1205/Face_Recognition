@@ -27,6 +27,18 @@ your_face/
 │   ├── ...
 │   ├── HienHo_0014.jpg
 │   └── HienHo_0015.jpg
+├── HoNgocHa
+│   ├── HoNgocHa_0001.jpg
+│   ├── HoNgocHa_0002.jpg
+│   ├── ...
+│   ├── HoNgocHa_0014.jpg
+│   └── HoNgocHa_0015.jpg
+├── VanMaiHuong
+│   ├── VanMaiHuong_0001.jpg
+│   ├── VanMaiHuong_0002.jpg
+│   ├── ...
+│   ├── VanMaiHuong_0014.jpg
+│   └── VanMaiHuong_0015.jpg
 └── TruongGiang
     ├── TruongGiang_0001.jpg
     ├── TruongGiang_0002.jpg
